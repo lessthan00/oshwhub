@@ -1,0 +1,18 @@
+板材类型：,FR-4,PCB尺寸:,45.2x70MM,层数：,6层
+板子厚度：,1.6MM,层压顺序：,TOP-GND02-SIG03-SIG04-POWER05-BOTTOM,外层铜厚：,1盎司
+内层铜厚：,0.5OZ,嘉立创盘中孔：,*,阻焊覆盖：,过孔盖油
+阻抗叠层：,*,阻抗管控：,*,焊盘喷镀：,沉金
+,,,,,
+①SINGLE   IMPEDANCE：,,,,,
+layer,width(mil),impedance(ohm), ref layer,,
+L1/L6,4.3,50,L2/5,,
+L3,4.3,50,L2,,
+L4,4.3,50,L5,,
+,,,,,
+②DIFFERENTIAL  IMPEDANCE:,,,,,
+layer,width/space(mil),impedance(ohm), ref layer,,
+L1,4.0/5.3,90,L2,,
+L3,4.0/5.3,90,L2,,
+L1,4.1/7.9,100,L2,,
+L3,4.1/7.9,100,L2,,
+L4,4.1/7.9,100,L5,,

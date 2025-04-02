@@ -1,0 +1,428 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8fe905b3-aaa2-4d72-841e-0a15bbee97c2")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 31.75 20.32)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "290bdfea-879a-4bc7-ace6-7a7d7e294a7a")
+		(property "Sheetname" "FPGA"
+			(at 31.75 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "1_FPGA.kicad_sch"
+			(at 31.75 24.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "li-chuang-luo-ji-pai-g1-kai-fa-ban2025-03-24"
+				(path "/8fe905b3-aaa2-4d72-841e-0a15bbee97c2"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 55.88)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4b5c10bd-1a32-481b-abe9-a4b5c6c6ad44")
+		(property "Sheetname" "FPGA_Peripheral"
+			(at 31.75 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "5_FPGA_Peripheral.kicad_sch"
+			(at 31.75 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "li-chuang-luo-ji-pai-g1-kai-fa-ban2025-03-24"
+				(path "/8fe905b3-aaa2-4d72-841e-0a15bbee97c2"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 109.22)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "642056aa-b3d6-4297-bf47-1f30695136ba")
+		(property "Sheetname" "GD32_MicroSD"
+			(at 31.75 108.5084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "11_GD32_MicroSD.kicad_sch"
+			(at 31.75 113.6146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "li-chuang-luo-ji-pai-g1-kai-fa-ban2025-03-24"
+				(path "/8fe905b3-aaa2-4d72-841e-0a15bbee97c2"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 29.21)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6dba0a1d-3118-40ab-8c86-b4654ee31f07")
+		(property "Sheetname" "GD32F303CBT6"
+			(at 31.75 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "2_GD32F303CBT6.kicad_sch"
+			(at 31.75 33.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "li-chuang-luo-ji-pai-g1-kai-fa-ban2025-03-24"
+				(path "/8fe905b3-aaa2-4d72-841e-0a15bbee97c2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 73.66)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "990af273-10b6-442f-946f-502707fa716f")
+		(property "Sheetname" "FPGA_ DDR3"
+			(at 31.75 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "7_FPGA_ DDR3.kicad_sch"
+			(at 31.75 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "li-chuang-luo-ji-pai-g1-kai-fa-ban2025-03-24"
+				(path "/8fe905b3-aaa2-4d72-841e-0a15bbee97c2"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 38.1)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b5f98ea7-72a0-4fd2-8d8d-02baa09c9daa")
+		(property "Sheetname" "Expand"
+			(at 31.75 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "3_Expand.kicad_sch"
+			(at 31.75 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "li-chuang-luo-ji-pai-g1-kai-fa-ban2025-03-24"
+				(path "/8fe905b3-aaa2-4d72-841e-0a15bbee97c2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 82.55)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cfd28671-f06f-4dea-941f-97ea68203916")
+		(property "Sheetname" "FPGA_DDR3_Power"
+			(at 31.75 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "8_FPGA_DDR3_Power.kicad_sch"
+			(at 31.75 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "li-chuang-luo-ji-pai-g1-kai-fa-ban2025-03-24"
+				(path "/8fe905b3-aaa2-4d72-841e-0a15bbee97c2"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 91.44)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d29f3df9-78e5-497a-8a94-ba0ab762c6a4")
+		(property "Sheetname" "FPGA_JTAG"
+			(at 31.75 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "9_FPGA_JTAG.kicad_sch"
+			(at 31.75 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "li-chuang-luo-ji-pai-g1-kai-fa-ban2025-03-24"
+				(path "/8fe905b3-aaa2-4d72-841e-0a15bbee97c2"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 64.77)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e91ef284-dbde-48db-ba9f-002907845310")
+		(property "Sheetname" "Power"
+			(at 31.75 64.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "6_Power.kicad_sch"
+			(at 31.75 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "li-chuang-luo-ji-pai-g1-kai-fa-ban2025-03-24"
+				(path "/8fe905b3-aaa2-4d72-841e-0a15bbee97c2"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 100.33)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f8fc62f6-c7c2-4f97-bd9c-82b6f87a1113")
+		(property "Sheetname" "FPGA_HDMI"
+			(at 31.75 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "10_FPGA_HDMI.kicad_sch"
+			(at 31.75 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "li-chuang-luo-ji-pai-g1-kai-fa-ban2025-03-24"
+				(path "/8fe905b3-aaa2-4d72-841e-0a15bbee97c2"
+					(page "10")
+				)
+			)
+		)
+	)
+)
